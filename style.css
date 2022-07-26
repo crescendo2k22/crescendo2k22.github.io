@@ -1,3 +1,9 @@
+html 
+{
+	scroll-behavior: smooth;
+}
+
+
 body {
 	margin: 0px;
 	padding: 0px;
@@ -7,6 +13,8 @@ body a {
 	text-decoration: none;
 }
 
+
+
 .titles {
 	background-color: #AB52A4;
 	padding-bottom: 110px;
@@ -14,7 +22,7 @@ body a {
 }
 
 .title {
-	font-size: 40px;
+	font-size: 42px;
 	color: white;
 	font-family: 'Montserrat';
 	padding-left: 40px;
@@ -29,21 +37,23 @@ body a {
 }
 
 
-
 .navbar ul {
 	float: right;
 	color: black;
 	margin-top: 47px;
 	margin-right: 43px;
+	
 }
 
 .navbar li{
 	display: inline-block;
-	font-size: 25px;
+	font-size: 18px;
 	font-family: "montserrat";
 	padding-right: 20px;
 	
 }
+
+
 
 .navbar a:hover {
 	color: black;
@@ -54,7 +64,7 @@ body a {
 }
 
 .banner{
-	width: 1519px;
+	width: 100%;
 }
 
 .marquee marquee{
@@ -76,6 +86,7 @@ body a {
 .chithravideo {
 	text-align: center;
 	margin: 0px;
+		padding-bottom: 40px;
 }
 
 .gallery-h1 {
@@ -83,6 +94,10 @@ body a {
 	font-size: 40px;	
 	font-family: montserrat;
 	padding-top: 30px;
+	marign: 0px;
 }
 
+.gallerypage{
+	background-image: url(gallerypage.jpg);
 
+}
