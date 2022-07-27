@@ -67,14 +67,15 @@ body a {
 	width: 100%;
 }
 
-.marquee marquee{
+.marquee marquee {
 	color: white;
 	font-size: 30px;
 	padding-bottom: 10px;
+
 }
 
 .marquee img {
-	width: 100px;
+	width: 2000px;
 }
 
 
