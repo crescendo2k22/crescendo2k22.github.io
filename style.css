@@ -99,6 +99,9 @@ body a {
 }
 
 .gallerypage{
-	background-image: url(gallerypage.jpg);
+	background-image: url(gallerypage3.jpg);
+	padding-bottom: 2200px;
+	background-size: contain;
 
 }
+
